@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Genghis
+Exec=xdg-open http://localhost:5678 %U
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/usr/share/pixmaps/genghis.png
+MimeType=text/html;text/xml;application/xhtml_xml;x-scheme-handler/http;x-scheme-handler/https;
+StartupWMClass=Chromium-browser
+StartupNotify=true
+Actions=NewWindow;Incognito;TempProfile;
+
